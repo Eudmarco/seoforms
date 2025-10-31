@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seo.forms.esgrmkt.com.br/sitemap.xml
